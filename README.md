@@ -11,4 +11,5 @@ We organize workshops on every 2nd and 3rd Thursday of every month from 2:30 PM 
 
 # Submitting a CFP
 
-If anyone who is interested in giving a session on Flutter can submit a CFP in the issues.
+If anyone who is interested in giving a session on Flutter can submit a CFP in the issues
+<br>Example : [Issue 1](https://github.com/dsc-paruluniversity/Flutter-Talks/issues/1)
